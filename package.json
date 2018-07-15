@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "MongoDB HW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kriswalk777/MongoDBHW.git"
+  },
+  "author": "Kristal Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kriswalk777/MongoDBHW/issues"
+  },
+  "homepage": "https://github.com/kriswalk777/MongoDBHW#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express-handlebars": "^3.0.0",
+    "request": "^2.87.0"
+  }
+}
